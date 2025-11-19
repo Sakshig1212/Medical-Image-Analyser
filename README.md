@@ -34,10 +34,11 @@ Built with **Python, Streamlit, Gemini API, PyTorch, and OpenCV**.
 
 ### 📄 **PDF Export**
 
+
+<img width="1747" height="718" alt="image" src="https://github.com/user-attachments/assets/226ce7d1-1ba5-4f44-8653-a18928e80a94" />
+
 <img width="998" height="697" alt="image" src="https://github.com/user-attachments/assets/b3c9167d-898c-4b3e-a638-5d288d890850" />
 
-
-<img width="998" height="697" alt="image" src="https://github.com/user-attachments/assets/149eb708-95c8-4298-853d-f22a98065d05" />
 
 
 ---
